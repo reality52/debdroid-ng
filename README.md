@@ -23,7 +23,7 @@ This script also self-updating so you can update it anytime by downloading it, t
 # Installation
 You can install DebDroid by entering:
 ```
-curl --location https://github.com/reality52/debdroid-ng > debdroid.sh && chmod 777 debdroid.sh
+curl --location https://git.io/debdroid-ng > debdroid.sh && chmod 777 debdroid.sh
 ```
 
 You can install Debian in just a few keystrokes by doing:
