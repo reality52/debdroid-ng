@@ -1,4 +1,4 @@
-# DebDroid (debdroid-ng)
+# DebDroid (debdroid-ng) (working, i guess, tested on 2 phones, butter smooth install process, fixed some addresses to work properly at 01.2022. Maybe i will add russian translation of instruction/scripts but i dont promise anything ;-). I dont know how github works YET so if you see what need fixing - fix it, i guess. I didnt originally wrote this cool scripts, shotouts to WMCB-Tech https://github.com/WMCB-Tech/WMCB-Tech i think he is author)
 DebDroid - Debian for Android OS!
 > Actually, this is a improved version of DebDroid, but uses the script-based and much more fresher than the old one, and has more refined features like improved installer interface, supporting multiple installations and much more
 
